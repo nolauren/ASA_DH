@@ -1,7 +1,11 @@
 # ASA-DH 2016
 DH-related panels at 2016 ASA conference in Denver, CO provided by the [ASA DH Caucus](http://www.theasa.net/caucus_digital_humanities/). 
 
-Did we miss a panel? Please let us know by emailing or tweeting Lauren Tilton:  ltilton [at] richmond [dot] edu or @nolauren
+Did we miss a panel? Please let us know by emailing or tweeting Amanda Philips or Lauren Tilton.
+
+ Amanda.Phillips [at] georgetown [dot] edu | @NazcaTheMad 
+
+ LTilton [at] richmond [dot] edu |  @nolauren
 
 ## Thursday, November 1
 
